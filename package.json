@@ -1,0 +1,19 @@
+{
+  "name": "web3-gfal-erc20",
+  "version": "1.0.0",
+  "description": "Contains the code for the $GFAL Token, an ERC20 compliant smart contract deployed on the Binance Smart Chain. It provides a centralized location for interested parties to view and interact with the smart contract, including its audit results, contract addresses, and deployment instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "G4AL Entertainment S.L.",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "dotenv": "^8.2.0",
+    "hardhat": "^2.12.6"
+  }
+}
