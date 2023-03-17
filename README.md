@@ -4,7 +4,7 @@ The $GFAL Token Smart Contract follows the ERC20 Token Standard and is deployed 
 
 ## Smart Contract Audit
 The $GFAL Token has been audited by Hacken.io, a professional services firm that specializes in audit, tax, legal, and financial advising services.
-The last audit received a score of 10 and can be accessed [here](https://drive.google.com/file/d/1fS69Cw1d2TUmquw-6PmWnIh4GdZflsz4/view?usp=share_link).
+The last audit received a score of 10 and can be accessed [here](https://github.com/gamesforaliving/web3-gfal-token/blob/main/GFALToken_Audit_Report.pdf).
 
 ## Smart Contract Address
 
